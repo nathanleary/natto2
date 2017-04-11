@@ -11,7 +11,7 @@ package natto
 import (
 	"time"
 
-	otto "./otto"
+	otto "github.com/nathanleary/otto"
 )
 
 type _timer struct {
